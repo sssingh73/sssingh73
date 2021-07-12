@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sudhir kr Singh
+this is for testing 
 - 👀 I’m interested in code development, DevOps & Cloud 
 - 🌱 I’m currently learning AI & Machine learning after getting expert level in DevOps 
 - 💞️ I’m looking to collaborate on opensource related to product development 
